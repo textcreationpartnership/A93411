@@ -1,0 +1,150 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some reasons against paying tythes and upholding that ministry that doth receive the same written in love to the truth, and for the sake thereof, and in love to my neighbours, Stephen Smith.</title>
+            <author>Smith, Stephen, 1623-1678.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93411</idno>
+            <idno type="STC">Wing S4214</idno>
+            <idno type="STC">ESTC R43757</idno>
+            <idno type="EEBO-CITATION">42475203</idno>
+            <idno type="OCLC">ocm 42475203</idno>
+            <idno type="VID">151356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151356)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2256:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some reasons against paying tythes and upholding that ministry that doth receive the same written in love to the truth, and for the sake thereof, and in love to my neighbours, Stephen Smith.</title>
+                  <author>Smith, Stephen, 1623-1678.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1676]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: The 16th of the 1st Moneth, 1676.</note>
+                  <note>Palce of publication from Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Controversial literature --  Quaker authors.</term>
+               <term>Tithes --  Quaker authors.</term>
+               <term>Society of Friends.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="tract">
+            <pb n="21" facs="tcp:151356:1" rendition="simple:additions"/>
+            <head>SOME REASONS AGAINST Paying Tythes, AND Upholding that Miniſtry that doth Receive the ſame.</head>
+            <p>
+               <hi>Written in Love to the Truth, and for the ſake thereof, and in Love to my Neighbours,</hi>
+            </p>
+            <p>Stephen Smith.</p>
+            <p>
+               <hi>Firſt,</hi> CHriſt Jeſus he is Lord of Heaven and Earth, and hath Power over all Fleſh, by whom the World was made, who is Heir of all things, and hath right of Government in the Hearts and Conſciences of all People, and over all the
+<pb n="2" facs="tcp:151356:2"/>Kingdoms of Men, the Right of ordaining &amp; appoin<g ref="char:EOLhyphen"/>ting Miniſters being in him, and alſo in giving forth his Righteous Law and Commands in their Hearts, where he ought to reign, where his Miniſters ſo or<g ref="char:EOLhyphen"/>dained of him are to wait, with their Minds ſtaid in his Light, to receive of him freely a Supply of Wiſdom and Power, and to communicate from the ſame freely, and to be contented with what Proviſi<g ref="char:EOLhyphen"/>on the Lord is pleaſed to make for them; and by him there being a Change of the Prieſthood under that Covenant given unto <hi>Moſes</hi> and the People of <hi>Iſrael,</hi> there is made of Neceſſity a Change alſo of the Law; and foraſmuch as the Prieſts in this Age, who are not ordained of Chriſt, do uphold that which the Lord hath changed, therefore we do deny them, and that which they claim for their Main<g ref="char:EOLhyphen"/>tenance.</p>
+            <p n="2">II. Theſe Prieſts being not ordained of Chriſt, nor appointed to that Office by him, they therefore do uſurp that Authority, the which doth of Right belong to Chriſt Jeſus, the which are preſumptious Sins, and therefore we do deny them.</p>
+            <p n="3">III. Theſe Prieſts having denyed the Revelation of Chriſt's Spirit now adayes, and ſet up the Letter and Law without above the Spirit and Law within, by which its plain and evident, that they are Stran<g ref="char:EOLhyphen"/>gers to the great Love of God in his New Covenant, and being void of the Knowledge of the Gift of God to the World, they have nothing but Imagi<g ref="char:EOLhyphen"/>nations and Inventions of their own Brain-Study,
+<pb n="3" facs="tcp:151356:2"/>and out of others Works and Labours, therefore we do deny them.</p>
+            <p n="4">IV. They not being ordained of Chriſt they bring forth no pleaſant Fruit, as is evident, but be<g ref="char:EOLhyphen"/>ing ordained of Man, being Man-made Miniſters, they are Men-pleaſers, ſo no Servants of Chriſt Je<g ref="char:EOLhyphen"/>ſus, but of their own Bellies, and for the Sake there<g ref="char:EOLhyphen"/>of they are abominably greedy of filthy Lucre, and therefore we do deny them.</p>
+            <p n="5">V. They being out of the Way of the Lord, and Strangers thereunto, therefore they can be no Guides therein, having ſet up Imaginations and Devices in their own Hearts, they follow them in defrauding People, therefore we deny them.</p>
+            <p n="6">VI. Foraſmuch as Chriſt hath ſaid, <hi>John</hi> 10. <hi>All that ever came before me are Thieves and Robbers,</hi> or as it may be rendred, <hi>All that go before him</hi> (Now mind) <hi>before</hi> Abraham <hi>was he was,</hi> and before the Prophets were he was; ſo the true Prophets they did not go before him, they waited for the Significa<g ref="char:EOLhyphen"/>tion of Chriſt's Spirit, which was in them, the which was their Foundation, and this was the Apo<g ref="char:EOLhyphen"/>ſtles Foundation, and the Believers in the Primitive Time were built upon the ſame; but the Thieves and Robbers were the falſe Prophets and Prieſts that came before him, who ſteal the true Prophets words and uſe them in their Divination for Money, and Rewards, and Preaching for Hire, the which were wicked Practices, teſtified againſt and cryed out a<g ref="char:EOLhyphen"/>gainſt
+<pb n="4" facs="tcp:151356:3"/>by the true Prophets; among which wicked Practices we finding the Man-made Miniſters in this Age and Generation, who go before Chriſt, and be<g ref="char:EOLhyphen"/>ing of that Number Chriſt Jeſus ſpoke againſt there<g ref="char:EOLhyphen"/>fore do we deny them.</p>
+            <p n="7">VII. All take notice, that the Teſtimony againſt Prieſts that preach for Hire is no new thing of twen<g ref="char:EOLhyphen"/>ty or thirty years ſtanding, as ſome do vainly ima<g ref="char:EOLhyphen"/>gine; thoſe Abominable Practices were teſtified a<g ref="char:EOLhyphen"/>gainſt by the true Prophets; read <hi>Micah</hi> 3. <hi>Iſaiah</hi> 56. <hi>Jer.</hi> 5. <hi>Ezek.</hi> 13. <hi>Hoſea</hi> 6. and read Chriſt's Teſtimony againſt Hirelings, <hi>John</hi> 10. (and mind) all the Holy Men of God were and are of the ſame Mind. And for Prieſts and People now adayes to pretend to Goſpel-Order and Goſpel-Dayes, and to live in the ſame, and if not worſe Practices then the Falſe Prophets, Prieſts, Teachers and People, who were before the more powerful Manifeſtation of Chriſt in Fleſh, the Everlaſting Goſpel, <hi>who is the End of the Law for Righteouſneſs to all that believe;</hi> this is a very great Shame even to the Name of <hi>Chriſtia<g ref="char:EOLhyphen"/>nity,</hi> and the Falſe Teachers the Prieſts being the Leaders into theſe Abominations; therefore we do Deny them.</p>
+            <p n="8">VIII. <hi>Paul</hi> an Apoſtle of Jeſus Chriſt, he did exhort the then Believers, To follow him as he was a Follower of Chriſt, who ever was and is a bleſſed Leader out of Tranſgreſſion, out of Sin, and there<g ref="char:EOLhyphen"/>fore out of Strife and Contention; he taught and teaches to love Enemies, for this Cauſe was and is
+<pb n="5" facs="tcp:151356:3"/>the Love of God in his Son manifeſt in Fleſh, even to condemn Sin in the Fleſh, and to deſtroy the De<g ref="char:EOLhyphen"/>vils Works of Malice, Envy, Luſt, Pride, Exceſs, Covetouſneſs, Lying, Guile, Hypocriſie, Deceit, Fraud, Vain Worſhips, Vain Services, Perſecuti<g ref="char:EOLhyphen"/>on, and all other Abominations that may be menti<g ref="char:EOLhyphen"/>oned; the true and faithful Witneſs, even the Light of his Holy Spirit in Mankind, never did nor will aſſent unto any thing that is Evil. And foraſmuch as the Prieſts are led by another Spirit, and acted by another Spirit, as by their Fruits and Practices they are manifeſted, even to be led by the ſpirit of <hi>Cain,</hi> he being the firſt Perſecutor about Religion; and the Prieſts being in the ſame Steps of Perſecution, they may ſay if they will ſpeak truly, <hi>Beloved, be you Followers of us as we are Followers of our Fore-Fa<g ref="char:EOLhyphen"/>thers,</hi> Cain, <hi>the Falſe Prophets and Teachers in Ages paſt;</hi> they bringing forth the ſame Fruits, therefore of Neceſſity they muſt ſpring from the ſame corrupt Ground and Root; and therefore let all the Wiſe in Heart judge, whether we have not Good Cauſe to Deny them.</p>
+            <p n="9">IX. It hath been ſo from the Beginning, that He that was born after the Fleſh perſecuted him that was born after the Spirit, even ſo it is now; &amp; when we turned our Backs upon Ungodlineſs, &amp; waited in the Grace of God, that we might live Godly and Righteouſly in this preſent Evil World, we did believe we might ſuffer by Unreaſonable Ungodly Men, who live exalted above the Grace of God, of which Number the Prieſts are chief; and therefore we do deny them.</p>
+            <pb n="6" facs="tcp:151356:4"/>
+            <p n="10">X. And whereas Chriſt Jeſus, who is Lord of the Sabboth, did above Sixteen Hundred Years ago ſet up the Everlaſting Worſhip in the Spirit and Truth, and directed all to take that for their Leader into all Truth, the Truth and bleſſed Effects whereof being witneſſed to the Praiſe of God this day, as it was in the primitive Time. And where<g ref="char:EOLhyphen"/>as the Man-made Miniſters of this Age and Genera<g ref="char:EOLhyphen"/>tion, who are not ordained nor ſent of Chriſt Jeſus, do teach for Doctrine the Commands of Men, and ſo Worſhip in vain, and by their Traditions and Vain Cuſtoms they have excluded that Worſhip in Spirit and Truth, the which Chriſt Jeſus ſet up; therefore we do Deny them.</p>
+            <p n="11">XI. Whereas the Man-made Miniſters now adays do make that their Plea for their Perſecution and Wickedneſs, <hi>they have a Law,</hi> ſo ſaid their Fore-Fathers, the <hi>Scribes, Phariſees</hi> and <hi>Chief Prieſts,</hi> who crucified Chriſt, they ſaid, <hi>They had a Law;</hi> and what Perſecutors about Religion ſince <hi>Cain</hi> had not ſome ſeeming Pretence and Covering? though indeed theſe in this Generation do excel in rare Arts and Coverings to hide their Wicked Bloody Spirit of Perſecution under; but he is riſen and come that ſees through them, and teaches his Followers to de<g ref="char:EOLhyphen"/>ny them; and therefore we do deny them.</p>
+            <p n="12">XII. And we do commend the Reader for his full and compleat Satisfaction about the Ground and ſetting up of Tythes, ſince the Goſpel dayes, unto
+<pb n="7" facs="tcp:151356:4"/>a Book entituled, <hi>The Great Caſe of Tythes Revived,</hi> by <hi>Francis Howgil,</hi> who Dyed a Priſoner for the Te<g ref="char:EOLhyphen"/>ſtimony of Jeſus; in that Book are all Reaſonable Objections clearly anſwered, and there is clearly ſhewn, what a dark Night of Apoſtacy was over People when Tythes were ſet up by a Law, and how many Hundred Years it was after Chriſt before that groſs Ignorance was uſhered in, in making Laws to Perſecute and Compel about Tythes.</p>
+            <p>And unto all we do ſignifie, <hi>That we have hopes in our Lord &amp; Maſter, Chriſt Jeſus, our Saviour, that he will maintain us by his Grace, and ſupply us out of his Fulneſs of Wiſdom and Power to live godly, ſoberly and righte<g ref="char:EOLhyphen"/>ouſly in this preſent life, giving no juſt Cauſe of Offence to any, but in all things to live an innocent harmleſs Life, keeping our Conſcience void of Offence, both before God and all men: And if any that may be among us, and pro<g ref="char:EOLhyphen"/>feſs to own our Principle, ſhould do otherwiſe then Right and Juſt, let none be ſo raſh as to condemn our juſt Princi<g ref="char:EOLhyphen"/>ple, or thoſe that live in it, becauſe of the Unfaithfulneſs of ſome that may make ſome Profeſſion of it, and not live up to it: And we do pray for all in Authority, that the Lord of Heaven and Earth may pour out his Spirit of Judgment &amp; Wiſdom upon them, that they may be opened, and the Nobility of their Underſtandings may be cleared from Darkneſs and Error, that they may diſcern between the Precious and the Vile, and that they may be for the Puniſhment of them that do Evil, and for the Praiſe of them that do well.</hi>
+            </p>
+            <closer>
+               <date>The 16th of the 1ſt Moneth, 1676.</date>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
